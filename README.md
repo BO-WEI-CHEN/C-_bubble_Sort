@@ -1,3 +1,2 @@
-# C-_bubble_Sort
-An simple bubble sort program
-Including the decending order
+# C++_Bubble_Sort_Using_Pointer
+An simple bubble sort program which including the decending order!
